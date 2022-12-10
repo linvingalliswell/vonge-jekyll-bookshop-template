@@ -1,15 +1,12 @@
 footer_menu__settings:
-  menu__items:
-    - title: 'Home'
-      url: '/'
-    - title: 'Projects'
-      url: '/projects/'
-    - title: 'Elements'
-      url: '/elements/'
-    - title: 'About'
-      url: '/about/'
-    - title: 'Blog'
-      url: '/blog/'
+    menu__items:
+        - title: 'Home'
+          url: '/'
+        - title: 'Projects'
+          url: '/projects/'
+        - title: 'About'
+          url: '/about/'
+        - title: 'Posts'
+          url: '/posts/'
 
-copyright_text_html: >-
-  <p> 2021 &copy; <a href="/">Vonge</a>. Template by <a href="https://cloudcannon.com/">CloudCannon</a>.</p>
+copyright_text_html: <p> <script>document.write( new Date().getFullYear() );</script> &copy; <a href="/">KY</a>. All Rights Reserved.</p>
